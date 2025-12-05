@@ -1,0 +1,102 @@
+﻿  OPP.cpp
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(45,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(76,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(107,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(299,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(374,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(380,38): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(380,38): warning C4267:         with
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(380,38): warning C4267:         [
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(380,38): warning C4267:             _Elem=char
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(380,38): warning C4267:         ]
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(380,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(439,31): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsString.h(466,26): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsDate.h(1136,16): warning C4091: 'static ': ignored on left of 'clsDate::enCompareDate' when no variable is declared
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsDate.h(1162,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsDate.h(1209,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsDate.h(1215,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsUtil.h(132,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(229,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogReccord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OPP.cpp')
+      C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(17,10):
+      see declaration of 'clsBankClient::stTransferLogReccord'
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(50,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(197,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(198,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(199,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(443,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(448,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(460,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsUser.h(210,10): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OPP.cpp')
+      C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsUser.h(21,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsCurrency.h(31,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsTotalblancesScreen.h(64,36): warning C4129: 'T': unrecognized character escape sequence
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsTotalblancesScreen.h(65,36): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsTotalblancesScreen.h(65,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsTransfer.h(60,64): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsTransfer.h(60,64): warning C4244:         with
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsTransfer.h(60,64): warning C4244:         [
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsTransfer.h(60,64): warning C4244:             T=double
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsTransfer.h(60,64): warning C4244:         ]
+  (compiling source file 'OPP.cpp')
+  
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\OPP.cpp(375,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(413,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsBankClient.h(463,1): warning C4715: 'clsBankClient::Withdarw': not all control paths return a value
+C:\Users\Essmat Tarek\source\repos\OPP\OPP\clsUser.h(358,1): warning C4715: 'clsUser::save': not all control paths return a value
+  OPP.vcxproj -> C:\Users\Essmat Tarek\source\repos\OPP\x64\Debug\OPP.exe

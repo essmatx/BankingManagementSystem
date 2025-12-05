@@ -1,0 +1,11 @@
+Kareem<<Tarek<<kareemtarek@gmail.com<<0100010010<<A100<<142536<<773300.000000
+Ahmed<<Khaled<<ahmedkhaled@gmail.com<<0100010011<<A101<<58795<<409900.000000
+Amy<<Adam<<amy@example.com<<0100010012<<A102<<3456<<28500.000000
+Alex<<Johnson<<alex@example.com<<0100010013<<A103<<9012<<1000.000000
+Alice<<Brown<<alice@example.com<<0100010014<<A104<<5678<<2000.000000
+Nader<<Hossam<<naderhossam@gmail.com<<0100010015<<A105<<875355<<25600.000000
+Sara<<Ali<<sara@example.com<<0100010016<<A106<<4321<<5000.000000
+John<<Doe<<john@example.com<<0100010017<<A107<<8765<<12000.000000
+Laila<<Omar<<laila@example.com<<0100010018<<A108<<2468<<3500.000000
+Hassan<<Yousef<<hassan@example.com<<0100010019<<A109<<1357<<2200.000000
+Sokoto<<Kamotache<<sokotocamutahce@exampil.com<<452558125<<A170<<14253697<<5875.000000
