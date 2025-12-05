@@ -1,0 +1,6 @@
+﻿  Bank Extension 2.cpp
+C:\Users\Essmat Tarek\source\repos\Bank Extension 2\Bank Extension 2\Bank Extension 2.cpp(19,117): error C2365: 'Mainmenue': redefinition; previous definition was 'enumerator'
+      C:\Users\Essmat Tarek\source\repos\Bank Extension 2\Bank Extension 2\Bank Extension 2.cpp(17,77):
+      see declaration of 'Mainmenue'
+  
+C:\Users\Essmat Tarek\source\repos\Bank Extension 2\Bank Extension 2\Bank Extension 2.cpp(38,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
